@@ -29,7 +29,7 @@ spec:
         app: my-first-lab
     spec:
       containers:
-      - image: <image>
+      - image: ghcr.io/2hub/my-first-lab:v1.0.1
         name: my-first-lab
         ports:
         - containerPort: 80
