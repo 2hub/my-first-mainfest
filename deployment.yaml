@@ -42,7 +42,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: krieng.training.dnsfor.me
+  - host: krieng-cd.training.dnsfor.me
     http:
       paths:
       - backend:
